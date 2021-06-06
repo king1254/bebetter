@@ -1,4 +1,4 @@
-# go_away_covid19
+# bebetter app
 
 A new Flutter application.
 
